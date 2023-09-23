@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @chewsmoko
-- 👀 I’m interested in going to the gym daily 💪💪
-- 🌱 I’m currently learning from my mistakes
+![githubbg](https://github.com/chewsmoko/chewsmoko/assets/142654022/7dc98a3d-bac8-4573-88c5-a0764742a5f0)
 
-<!---
-chewsmoko/chewsmoko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi 👋, I am Russel Chu 
+
+A passionate and committed student currently in third year level and taking the course of Information Technology at Saint Paul University Surigao. 
