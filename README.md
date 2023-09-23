@@ -2,4 +2,4 @@
 
 ### Hi 👋, I am Russel Chu 
 
-A passionate and committed student currently in third year level and taking the course of Information Technology at Saint Paul University Surigao. 
+I'm a third-year Information Technology student at St. Paul University Surigao. My passion lies in technology, and I'm dedicated to honing my skills in programming, software development, and more. I actively engage in IT-related projects and extracurricular activities, aiming to make a significant impact in the tech industry in the future. Outside of academics, I enjoy diverse interests to maintain a balanced life.
